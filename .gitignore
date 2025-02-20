@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+
+# Django Compiled Files
+*.pyc
+_pycache_/
+db.sqlite3
+
+# Static and Media Files
+/static/
+/media/
+
+# Environment Variables
+.env
